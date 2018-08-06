@@ -54,6 +54,7 @@ import org.springframework.data.util.CastUtils;
 import org.springframework.hateoas.Link;
 import org.springframework.hateoas.Links;
 import org.springframework.hateoas.Resource;
+import org.springframework.hateoas.ResourceSupport;
 import org.springframework.hateoas.UriTemplate;
 import org.springframework.hateoas.mvc.ResourceProcessorInvoker;
 import org.springframework.util.Assert;
